@@ -4,8 +4,8 @@
 // @grant       none
 // @version     1.0
 // @author      xorascs
-// @downloadURL https://raw.githubusercontent.com/xorascs/Banana/refs/heads/main/banana.js
-// @updateURL   https://raw.githubusercontent.com/xorascs/Banana/refs/heads/main/banana.js
+// @downloadURL https://github.com/xorascs/Banana/raw/main/banana.js
+// @updateURL   https://github.com/xorascs/Banana/raw/main/banana.js
 // @homepage    https://github.com/xorascs/Banana
 // ==/UserScript==
 
